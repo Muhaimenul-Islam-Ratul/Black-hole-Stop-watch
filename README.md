@@ -4,6 +4,8 @@ A gravity-assisted high-precision stopwatch inspired by Einstein's theory of Gen
 
 ![Stopwatch Screenshot](assets/screenshot.png)
 
+🔗 **Live Demo:** [blackholestopwatch.netlify.app](https://blackholestopwatch.netlify.app/)
+
 ## 💫 Features
 
 - **Relativistic Time Dilation (Gravitational Proximity)**
