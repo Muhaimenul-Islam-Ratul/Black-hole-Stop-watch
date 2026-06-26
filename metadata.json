@@ -1,0 +1,6 @@
+{
+  "name": "Black Hole Stopwatch",
+  "description": "A minimalist stopwatch and lap timer with a deep cosmic black hole aesthetic, neon accents, and smooth physics-inspired animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
